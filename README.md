@@ -1,4 +1,4 @@
-# MyResume**
+# MyResume
 
 **Input**
 
