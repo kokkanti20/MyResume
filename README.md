@@ -6,7 +6,7 @@ The "MyResume" web application accepts fixed input data, encompassing the user's
 
 **Process**
 
-The application is developed with React. Upon application initiation, the App.js code renders the `Resume` component. The Resume.js component organizes the input data into distinct parts such as Education, Skills, Experience, and Projects. The Resume.css file implements styling to align the layout, colors, and fonts with the specified design. The virtual DOM of React updates and renders the user interface efficiently, while the development server facilitates real-time browser previews.
+The application is developed with React. Upon application initiation, the App.js code renders the Resume component. The Resume.js component organizes the input data into distinct parts such as Education, Skills, Experience, and Projects. The Resume.css file implements styling to align the layout, colors, and fonts with the specified design. The virtual DOM of React updates and renders the user interface efficiently, while the development server facilitates real-time browser previews.
 
 **Output**
 
